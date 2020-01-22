@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4381044-35aa-4cd7-8c65-fe675e6e0df7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClassPatternConfiguration">
+    <testPatterns>
+      <classPattern testedClass="$CLASS$" testClass="test/$CLASS$Test" />
+    </testPatterns>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JUnitClassTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Class.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Class.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitMethodTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Method.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Method.java" />
+          <item index="1" class="java.lang.String" itemvalue="Test Method throws Exception.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitTestConfiguration">
+    <option name="IS_AUTO_TEST_CLASS_RENAME_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_MOVE_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_REFACTORING_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_METHODS_RENAME_ENABLED" value="true" />
+    <option name="IS_UNTESTED_METHOD_ICON_ENABLED" value="true" />
+    <option name="IS_GET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_UNIT_TEST_ENABLED" value="true" />
+  </component>
+  <component name="ProjectId" id="1Whijezy2rKD3QgQGSljfQsMN1T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\basho\Documents\Task-Two-master\src" />
+      <recent name="C:\Users\basho\Documents\Task-Two-master" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TaskTwo" />
+      <option name="PROGRAM_PARAMETERS" value="src/config.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4381044-35aa-4cd7-8c65-fe675e6e0df7" name="Default Changelist" comment="" />
+      <created>1579608363942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579608363942</updated>
+      <workItem from="1579608373514" duration="13903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579623324378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579623324378" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1579618337164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579618337164" />
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579608393456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1579608393456" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579623093363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579623093363" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579623093363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579623093363" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579623093363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579623093363" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579623093363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579623093363" />
+    <state x="499" y="179" key="extract.method.dialog" timestamp="1579619015214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="179" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1579619015214" />
+    <state x="462" y="10" width="611" height="804" key="find.popup" timestamp="1579623465237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="10" width="611" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1579623465237" />
+  </component>
+</project>
