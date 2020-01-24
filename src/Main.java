@@ -6,7 +6,7 @@ public class Main {
 		if(args.length > 0) {
 			path = args[0];
 		}
-		System.out.println(path);
+		
 		ConfigParser config = new ConfigParser(path);
 		System.out.println(config.get("application.name"));
 		System.out.println(config.all());
